@@ -1,5 +1,5 @@
 ## TESTEEEEEEEEEEEEE
-<div align="center">
+<div>
   <a href="github.com/ErikPanicio">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=erikpanicio&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpanicio&layout=compact&langs_count=7&theme=outrun"/> <!-- aura -->
