@@ -1,9 +1,9 @@
 ## Olá, eu sou o Erik, estudante de programação que está iniciando nesse Universo!
 
 <div align="center">
-  <a href="github.com/erikpanicio">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=erikpanicio&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpanicio&layout=compact&langs_count=7&theme=outrun"/> <!-- aura  outrun-->
+  <a href="https://github.com/erikpanicio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikpanicio&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpanicio&layout=compact&langs_count=7&theme=outrun"/> <!-- aura  outrun-->
 </div> 
   
  <div style="display: inline_block"><br>
