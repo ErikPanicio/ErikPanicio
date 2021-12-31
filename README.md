@@ -1,9 +1,9 @@
 <div align="center">
   <a href="github.com/ErikPanicio">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=erikpanicio&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpanicio&layout=compact&langs_count=7&theme=outrun"/> <!-- aura -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpanicio&layout=compact&langs_count=7&theme=outrun"/> <!-- aura -->
 </div>
-  
+<!--  
  <div style="display: inline_block"><br>
   <img align="center" alt="Erik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -14,3 +14,4 @@
   
 ![Snake animation](https://github.com/ErikPanicio/ErikPanicio/blob/output/github-contribution-grid-snake.svg)
   
+--> 
