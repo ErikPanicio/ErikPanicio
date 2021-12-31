@@ -1,4 +1,4 @@
-## TESTEEEEEEEEEEEEE
+## Olá, eu sou o Erik, estudante de programação que está iniciando nesse Universo!
 
 <div align="center">
   <a href="github.com/ErikPanicio">
