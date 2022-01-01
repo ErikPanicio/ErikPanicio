@@ -11,7 +11,7 @@
   </a>
 </div> 
   
-### Estou estudando:
+<h3>Estou estudando:</h3>
 
 <div style="display: inline_block">
   <a href="https://github.com/erikpanicio">
