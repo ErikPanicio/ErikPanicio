@@ -1,4 +1,7 @@
-## Olá, eu sou o Erik, estudante de programação que está iniciando nesse Universo!
+<div align="center">
+  <h2>Olá, eu sou o Erik, estudante de programação que está iniciando nesse Universo!</h2>
+</div>
+
 <br>
 
 <div align="center">
