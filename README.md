@@ -14,3 +14,6 @@
 </div>
   
 <!--  ![Snake animation](https://github.com/ErikPanicio/ErikPanicio/blob/output/github-contribution-grid-snake.svg)   -->
+<br>
+Count visitors (test)
+![Visitor Count](https://profile-counter.glitch.me/{erikpanicio}/count.svg)
