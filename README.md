@@ -1,5 +1,5 @@
 ## Olá, eu sou o Erik, estudante de programação que está iniciando nesse Universo!
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://github.com/erikpanicio">
