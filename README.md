@@ -1,11 +1,8 @@
 <div align="center">
-  <h2>Olá, eu sou o Erik, estudante de programação que está iniciando nesse Universo!</h2>
-</div>
-
-<div align="center">
+  <h2 align="center">Olá, eu sou o Erik, estudante de programação que está iniciando nesse Universo!</h2>
   <a href="https://github.com/erikpanicio">
-    <img height="167em" src="https://github-readme-stats.vercel.app/api?username=erikpanicio&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-    <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpanicio&layout=compact&langs_count=7&theme=outrun"/>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikpanicio&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpanicio&layout=compact&langs_count=7&theme=outrun"/>  
   </a>
 </div> 
 
@@ -18,7 +15,6 @@
   <img align="center" alt="Erik-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt = "Erik-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt = "Erik-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    
   </a>
 </div>
   
