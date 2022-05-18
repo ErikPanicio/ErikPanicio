@@ -6,7 +6,7 @@
   </a>
 </div> 
 
-### Estou estudando:
+Estou estudando:
 
 <div style="display: inline_block">
   <a href="https://github.com/erikpanicio">
