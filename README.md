@@ -1,7 +1,7 @@
 <h2 align="center">Olá, eu sou o Erik, estudante de programação que está iniciando nesse Universo!</h2>
 
 <div>
-  <img align="left" height="450em" src="/images/Octocat.png">
+  <img align="left" height="400em" src="/images/Octocat.png">
 </div>
 
 <div align="center">
