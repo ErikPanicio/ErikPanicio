@@ -1,11 +1,12 @@
 <h2 align="center">Olá, eu sou o Erik, estudante de programação que está iniciando nesse Universo!</h2>
 
 <a href="https://github.com/erikpanicio">
-  <img align="left" height="425em" src="/images/Octocat.png">
+  <img align="left" height="425em" width="372em" src="/images/Octocat.png">
 </a>
 
 <div align="center">
-  <a href="https://github.com/erikpanicio">
+  <a href="https://github.com/erikpanici![image](https://user-images.githubusercontent.com/61640417/183312332-54e6bbe8-099c-4ef3-9caf-25ea35301771.png)
+o">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpanicio&layout=compact&langs_count=7&theme=outrun"/>  
   </a>
 </div> 
