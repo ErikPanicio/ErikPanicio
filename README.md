@@ -4,16 +4,17 @@
   <img align="left" width="45%" src="images/Octocat.png">
 </a>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/erikpanici![image](https://user-images.githubusercontent.com/61640417/183312332-54e6bbe8-099c-4ef3-9caf-25ea35301771.png)
 o">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpanicio&layout=compact&langs_count=7&theme=outrun"/>  
   </a>
 </div> 
 
-### Estou estudando:
-
-<div style="display: inline_block">
+<div align="left">
+  <h3>Estou estudando:</h3>
+</div>
+<div style="display: inline_block" align="left">
   <a href="https://github.com/erikpanicio">
     <img align="center" alt="Erik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Erik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
