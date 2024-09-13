@@ -1,4 +1,4 @@
-<h2 align="center">Olá, eu sou o Erik, estudante de programação que está iniciando nesse Universo!</h2>
+<h2 align="center"></h2>
 
 <a href="https://github.com/erikpanicio">
   <img align="left" width="45%" src="images/Octocat.png">
